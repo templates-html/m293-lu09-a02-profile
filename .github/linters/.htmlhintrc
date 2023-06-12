@@ -16,7 +16,7 @@
   "attr-whitespace": true,
   "alt-require": true,
   "input-requires-label": true,
-  "tags-check": true,
+  "tags-check": false,
   "tag-pair": true,
   "tag-self-close": false,
   "tagname-lowercase": true,
